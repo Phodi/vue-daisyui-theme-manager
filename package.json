@@ -51,7 +51,7 @@
   "dependencies": {
     "daisyui": "^2.51.6",
     "vue": "^3.2.47",
-    "vue-daisyui-theme-manager": "^0.0.28"
+    "vue-daisyui-theme-manager": "file:./"
   },
   "devDependencies": {
     "@types/node": "^18.15.11",
